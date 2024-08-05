@@ -1,0 +1,16 @@
+{
+  "name": "express_server_with_mongoose",
+  "version": "1.0.0",
+  "description": "This is a starter template for a basic Express server with controllers and models. The server is set up to connect to a MongoDB database using Mongoose. Students will complete the server by adding the database functionality and implementing the controllers for creating, reading, updating, and deleting users.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
